@@ -35,16 +35,15 @@ Some classes, especially the models, are shared between client and server. That 
 
 1. **ServerConnectionView** - Allows users to enter the server IP and port.
 
-![image](https://github.com/user-attachments/assets/10c951dc-6472-4686-be72-2bfc5f02cc04)
+<img width="343" height="231" alt="ServerConnectionView" src="https://github.com/user-attachments/assets/63dd5195-c21a-4626-b272-b4241dd324d9" />
 
-2. **LoginView** - Allows users to enter a unique username.
+3. **LoginView** - Allows users to enter a unique username.
 
-![image](https://github.com/user-attachments/assets/2e259c1d-bfea-4c33-8dcd-965a1f331dd4)
+<img width="343" height="171" alt="LoginView" src="https://github.com/user-attachments/assets/9e7b7cef-31e7-40b3-9e7d-66ee983464dc" />
 
 3. **ChatView** - Displays all messages and provides an input field for sending new ones.
 
-![image](https://github.com/user-attachments/assets/735626ec-99cf-4f9f-ba0a-f21c28e18eaf)
-
+<img width="463" height="591" alt="ChatView" src="https://github.com/user-attachments/assets/3d020c61-88a7-41b8-89fb-d9bac6ab50c4" />
 
 #### **Controllers**
 
